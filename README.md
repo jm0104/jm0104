@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jia Mu</h1>
 
-<!--
-**jm0104/jm0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineer · AI · Computer Vision
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  MSc @ HKUST · BSc Computer Science @ MUST
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MSc in Information Technology @ HKUST
+- 💻 Former C++ Development Intern @ Alibaba
+- 🤖 Interested in AI Engineering, Computer Vision and Backend Systems
+- 🔬 Experience in YOLO, OCR and Human Action Recognition
+
+## 🚀 Featured Projects
+
+### 🚗 Traffic Vehicle Detection
+YOLO11-based traffic analysis system for real-world traffic monitoring.
+
+### 🧍 Real-Time Human Action Recognition
+CPU-friendly skeleton-based human action recognition system.
+
+### 🔤 Scene Text Recognition
+Swin Transformer based OCR feature extraction research.
+
+## 🛠 Tech Stack
+
+C++ · Python · PyTorch · YOLO · OpenCV · Linux · SQL · Flask
